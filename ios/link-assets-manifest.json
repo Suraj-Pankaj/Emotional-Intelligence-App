@@ -1,0 +1,161 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Piazzolla-Black.ttf",
+      "sha1": "babb7bc99a9f2cf3de731cc493d7e551e5461345"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-BlackItalic.ttf",
+      "sha1": "b60e894d1e5b98ee47a251dbef1fba6d0a7e1387"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Bold.ttf",
+      "sha1": "4ede8fec34d4b3203d7a5ad3c1153ffc32fa9619"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-BoldItalic.ttf",
+      "sha1": "665089feb3deeff99735b2e7986a913d7c98f6e9"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-ExtraBold.ttf",
+      "sha1": "3d620c5a73167f687bbda07b89f4f86041d785ed"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-ExtraBoldItalic.ttf",
+      "sha1": "357d8bc2d10e7d9f364735593953c47aa76445c6"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-ExtraLight.ttf",
+      "sha1": "fda477121e5bd96165a15f3f9fbc36c7e24fca07"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-ExtraLightItalic.ttf",
+      "sha1": "c217bb914841a1b3266be62b43b0edc95a393bb4"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Italic.ttf",
+      "sha1": "30f7db6fc5b9db078a8713822accab97342661a8"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Light.ttf",
+      "sha1": "f9b5e5deee1221bd48ac54197019bd1136b588d8"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-LightItalic.ttf",
+      "sha1": "1286e83469e4daea7dd909c07d533a33895bf702"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Medium.ttf",
+      "sha1": "6ecf02123e8a99300084c132073ff746140bc8eb"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-MediumItalic.ttf",
+      "sha1": "d8e7434dffccf5f4374f869a8467cd3b1455c6b6"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Regular.ttf",
+      "sha1": "b4c19781a1f6952a39878b9bc8107f3451d66e22"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-SemiBold.ttf",
+      "sha1": "1288dc5240c433ff42cd62b859c31bf2d17f16dd"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-SemiBoldItalic.ttf",
+      "sha1": "57aa226e406a08bb9fa5091da14fd61320468a71"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-Thin.ttf",
+      "sha1": "f53a1703b1c093e9a71c41ff45a20eefadc77d68"
+    },
+    {
+      "path": "assets/fonts/Piazzolla-ThinItalic.ttf",
+      "sha1": "587f0f0911ca5a521ffb18028bbd02e18b6c24ef"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Black.ttf",
+      "sha1": "bfccbb9a4c46f3d3c30d245af74442e730d56723"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-BlackItalic.ttf",
+      "sha1": "fa47f0f9a0be6d7f5b9cd731ae0acc941b86ed4f"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Bold.ttf",
+      "sha1": "a01693c7d32826d9626013a283d22748314a2157"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-BoldItalic.ttf",
+      "sha1": "e9258014d6c7a541dce54e2dda072ef7ba279744"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-ExtraBold.ttf",
+      "sha1": "0201a849f2e41c093c1a67ee4fc5901d8e74eaf0"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-ExtraBoldItalic.ttf",
+      "sha1": "d862cce7d2a9efcfb6333e099c883e3cf6fe81d6"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Italic.ttf",
+      "sha1": "1e0084ef41c9f0c72c0447a5bd4f4902fc370702"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Medium.ttf",
+      "sha1": "d79552175bfa3a0c706e0a1a68c59148c5f24913"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-MediumItalic.ttf",
+      "sha1": "4990df5a06bcd76b07e8a0d7f9326d438739f034"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-Regular.ttf",
+      "sha1": "b93c059782bd1c16bc0c5c495d245e2147a7c573"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-SemiBold.ttf",
+      "sha1": "a2e44d97ebaa6a5465030d3c0b362aac281435b6"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-SemiBoldItalic.ttf",
+      "sha1": "40a657362292d89706dd22620f21cc42fcef4020"
+    },
+    {
+      "path": "assets/fonts/SignikaNegative-VariableFont_wght.ttf",
+      "sha1": "3fb8633a32a5e9e3d28713c049dbedd71ae76477"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-BoldItalic.ttf",
+      "sha1": "9ec6f8b1c000fe9d081f2598d801ed85cef63a63"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Italic.ttf",
+      "sha1": "1f02c79207884c1d1adf3b0679bbacb1d17c6f39"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Light.ttf",
+      "sha1": "d060b0ff74b379dcc3d10ac2d024602af419d9f0"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-LightItalic.ttf",
+      "sha1": "7b5e622026245d52f4eafbaa9564ece8e8889dc9"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Medium.ttf",
+      "sha1": "da662f767e6261491e20da197bd7ffbb7a7d122c"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-MediumItalic.ttf",
+      "sha1": "f96c9c3a3bf40efdc9b20afcc8203f6e47e87ea5"
+    },
+    {
+      "path": "assets/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}
